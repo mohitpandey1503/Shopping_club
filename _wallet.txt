@@ -1,0 +1,2 @@
+Balance: 500000            
+Previous Transactions are: +500000 
